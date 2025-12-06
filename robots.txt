@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maigelab.github.io/al-folio/sitemap.xml
+Sitemap: https://maigelab.github.io/sitemap.xml
